@@ -1,6 +1,7 @@
 ---
 title: Route Weather
 year: 2024
+languages: [Java]
 tags: [Java, Spring Boot, Thymeleaf, openweathermap, Google Maps, Docker, Gradle, REST API]
 status: complete
 cover: photos/main.jpg
